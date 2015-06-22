@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
+photo: "https://avatars0.githubusercontent.com/u/12992271?v=3&s=150" 
 name: "Austin Michael Coleman"
 copy: "A programmer based in Scotts Valley, CA. I am currently a full-time software engineer at Tanzle, a startup specializing in virtual reality museum experiences."
 
