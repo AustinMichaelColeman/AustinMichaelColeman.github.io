@@ -5,8 +5,8 @@ demo: false
 # you don't have to restart Jekyll to see changes.
 
 photo: "https://avatars0.githubusercontent.com/u/12992271?v=3&s=150" 
-name: "Austin Michael Coleman"
-copy: "A Unity3D programmer based in Scotts Valley, CA. I am currently a full-time software engineer at Tanzle, a startup specializing in virtual reality museum experiences."
+name: "Austin Coleman"
+copy: "Software engineer"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
